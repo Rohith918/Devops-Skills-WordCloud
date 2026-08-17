@@ -8,10 +8,26 @@ from wordcloud import WordCloud
 API_URL = "https://remotive.com/api/remote-jobs?category=software-dev&limit=100"
 
 SKILLS_LIST = [
-    "python", "sql", "aws", "docker", "kubernetes", "machine learning",
-    "postgresql", "pandas", "tableau", "power bi", "django", "fastapi",
-    "rest api", "ci/cd", "excel", "microservices", "git", "react",
-    "typescript", "java", "golang", "graphql", "redis", "azure", "gcp"
+    # Cloud Providers
+    "aws", "azure", "gcp",
+    
+    # Containers & Orchestration
+    "docker", "kubernetes", "k8s", "helm", "podman",
+    
+    # Infrastructure as Code (IaC) & Configuration Management
+    "terraform", "ansible", "cloudformation", "pulumi",
+    
+    # CI/CD & GitOps
+    "ci/cd", "jenkins", "github actions", "gitlab ci", "argo cd", "flux",
+    
+    # Monitoring, Logging & Observability
+    "prometheus", "grafana", "datadog", "elk stack", "splunk", "opentelemetry",
+    
+    # Operating Systems & Scripting
+    "linux", "bash", "shell scripting", "python", "golang",
+    
+    # Security, Networking & Service Mesh
+    "git", "hashicorp vault", "nginx", "istio", "sonarqube", "trivy"
 ]
 
 def fetch_job_descriptions() -> list[str]:
