@@ -20,17 +20,27 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install system fonts
+        # Ensures a bold sans-serif is always available so text doesn't
+        # silently fall back to a thin default font on a fresh runner image.
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq fonts-dejavu-core
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Run script
         run: python main.py
+        env:
+          SKILLS_CATEGORY: devops
+          SKILLS_THEME: classic
+          SKILLS_SHAPE: circle
 
-      - name: Commit and push updated image
+      - name: Commit and push updated files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add skills_cloud.png
+          git add skills_cloud.png skills_cloud.json skills_cloud.csv
           git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update daily skills wordcloud [skip ci]"
           git push
