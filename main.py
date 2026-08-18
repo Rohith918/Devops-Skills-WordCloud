@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from wordcloud import WordCloud
 
 # Free public API for remote jobs (No API key needed)
-API_URL = "https://remotive.com/api/remote-jobs?category=software-dev&limit=100"
+API_URL = "https://remotive.com/api/remote-jobs?category=devops&limit=100"
 
 SKILLS_LIST = [
     # Cloud Providers
