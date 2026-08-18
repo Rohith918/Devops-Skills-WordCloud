@@ -1,4 +1,6 @@
-requests
-beautifulsoup4
-wordcloud
-matplotlib
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+wordcloud>=1.9,<2
+pillow>=10.0,<13
+numpy>=1.26,<3
+matplotlib>=3.8,<4
