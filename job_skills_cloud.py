@@ -76,7 +76,7 @@ logging.basicConfig(
 log = logging.getLogger("job_skills_cloud")
 
 HERE = Path(__file__).resolve().parent
-DEFAULT_TAXONOMY = HERE / "taxonomies" / "devops.json"
+DEFAULT_TAXONOMY = HERE /  "devops.json"
 
 
 def _requests_session(retries: int = 3, backoff: float = 0.6) -> requests.Session:
