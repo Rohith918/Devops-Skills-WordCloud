@@ -488,7 +488,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     args = build_arg_parser().parse_args(argv)
 
-    taxonomy_path = Path(f"taxonomies/{args.category}.json") if args.category else args.taxonomy
+    taxonomy_path = Path(f"{args.category}.json") if args.category else args.taxonomy
     if not taxonomy_path.exists():
         log.error("Taxonomy file not found: %s", taxonomy_path)
         return 1
