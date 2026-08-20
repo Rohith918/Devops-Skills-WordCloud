@@ -3,38 +3,38 @@
   "skills": [
     {
       "skill": "Python",
-      "postings_mentioning": 60,
-      "pct_of_postings": 14.4
+      "postings_mentioning": 67,
+      "pct_of_postings": 16.1
     },
     {
       "skill": "CI/CD",
-      "postings_mentioning": 39,
-      "pct_of_postings": 9.4
+      "postings_mentioning": 42,
+      "pct_of_postings": 10.1
     },
     {
       "skill": "AWS",
-      "postings_mentioning": 33,
-      "pct_of_postings": 7.9
-    },
-    {
-      "skill": "Kubernetes",
-      "postings_mentioning": 29,
-      "pct_of_postings": 7.0
+      "postings_mentioning": 38,
+      "pct_of_postings": 9.1
     },
     {
       "skill": "Docker",
-      "postings_mentioning": 28,
-      "pct_of_postings": 6.7
+      "postings_mentioning": 31,
+      "pct_of_postings": 7.4
     },
     {
       "skill": "Azure",
-      "postings_mentioning": 27,
-      "pct_of_postings": 6.5
+      "postings_mentioning": 30,
+      "pct_of_postings": 7.2
+    },
+    {
+      "skill": "Kubernetes",
+      "postings_mentioning": 30,
+      "pct_of_postings": 7.2
     },
     {
       "skill": "GCP",
-      "postings_mentioning": 25,
-      "pct_of_postings": 6.0
+      "postings_mentioning": 27,
+      "pct_of_postings": 6.5
     },
     {
       "skill": "Terraform",
@@ -43,8 +43,13 @@
     },
     {
       "skill": "Git",
-      "postings_mentioning": 15,
-      "pct_of_postings": 3.6
+      "postings_mentioning": 16,
+      "pct_of_postings": 3.8
+    },
+    {
+      "skill": "Bash",
+      "postings_mentioning": 13,
+      "pct_of_postings": 3.1
     },
     {
       "skill": "Linux",
@@ -52,12 +57,12 @@
       "pct_of_postings": 2.6
     },
     {
-      "skill": "Bash",
-      "postings_mentioning": 11,
-      "pct_of_postings": 2.6
+      "skill": "Helm",
+      "postings_mentioning": 10,
+      "pct_of_postings": 2.4
     },
     {
-      "skill": "Ansible",
+      "skill": "Argo CD",
       "postings_mentioning": 10,
       "pct_of_postings": 2.4
     },
@@ -67,12 +72,7 @@
       "pct_of_postings": 2.4
     },
     {
-      "skill": "Helm",
-      "postings_mentioning": 9,
-      "pct_of_postings": 2.2
-    },
-    {
-      "skill": "Argo CD",
+      "skill": "Ansible",
       "postings_mentioning": 9,
       "pct_of_postings": 2.2
     },
@@ -92,12 +92,17 @@
       "pct_of_postings": 1.7
     },
     {
-      "skill": "Jenkins",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
+      "skill": "GitHub Actions",
+      "postings_mentioning": 4,
+      "pct_of_postings": 1.0
     },
     {
-      "skill": "GitHub Actions",
+      "skill": "Go",
+      "postings_mentioning": 4,
+      "pct_of_postings": 1.0
+    },
+    {
+      "skill": "CloudFormation",
       "postings_mentioning": 3,
       "pct_of_postings": 0.7
     },
@@ -107,22 +112,12 @@
       "pct_of_postings": 0.7
     },
     {
-      "skill": "Go",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
-    },
-    {
-      "skill": "CloudFormation",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
+      "skill": "Jenkins",
+      "postings_mentioning": 1,
+      "pct_of_postings": 0.2
     },
     {
       "skill": "GitLab CI",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
-    },
-    {
-      "skill": "Pulumi",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
