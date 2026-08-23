@@ -1,85 +1,75 @@
 {
-  "total_postings_analyzed": 418,
+  "total_postings_analyzed": 419,
   "skills": [
     {
       "skill": "Python",
-      "postings_mentioning": 36,
-      "pct_of_postings": 8.6
+      "postings_mentioning": 35,
+      "pct_of_postings": 8.4
     },
     {
       "skill": "Azure",
-      "postings_mentioning": 22,
-      "pct_of_postings": 5.3
-    },
-    {
-      "skill": "Linux",
-      "postings_mentioning": 22,
-      "pct_of_postings": 5.3
-    },
-    {
-      "skill": "Kubernetes",
-      "postings_mentioning": 20,
-      "pct_of_postings": 4.8
+      "postings_mentioning": 21,
+      "pct_of_postings": 5.0
     },
     {
       "skill": "AWS",
-      "postings_mentioning": 17,
-      "pct_of_postings": 4.1
-    },
-    {
-      "skill": "CI/CD",
-      "postings_mentioning": 16,
-      "pct_of_postings": 3.8
+      "postings_mentioning": 19,
+      "pct_of_postings": 4.5
     },
     {
       "skill": "GCP",
-      "postings_mentioning": 15,
-      "pct_of_postings": 3.6
+      "postings_mentioning": 18,
+      "pct_of_postings": 4.3
     },
     {
-      "skill": "Terraform",
-      "postings_mentioning": 9,
-      "pct_of_postings": 2.2
+      "skill": "Kubernetes",
+      "postings_mentioning": 18,
+      "pct_of_postings": 4.3
     },
     {
-      "skill": "Bash",
-      "postings_mentioning": 9,
-      "pct_of_postings": 2.2
+      "skill": "CI/CD",
+      "postings_mentioning": 18,
+      "pct_of_postings": 4.3
     },
     {
       "skill": "Docker",
+      "postings_mentioning": 11,
+      "pct_of_postings": 2.6
+    },
+    {
+      "skill": "Linux",
       "postings_mentioning": 8,
       "pct_of_postings": 1.9
     },
     {
-      "skill": "Git",
-      "postings_mentioning": 8,
-      "pct_of_postings": 1.9
-    },
-    {
-      "skill": "HashiCorp Vault",
+      "skill": "Terraform",
       "postings_mentioning": 5,
       "pct_of_postings": 1.2
     },
     {
-      "skill": "ELK Stack",
+      "skill": "GitHub Actions",
+      "postings_mentioning": 5,
+      "pct_of_postings": 1.2
+    },
+    {
+      "skill": "Datadog",
+      "postings_mentioning": 5,
+      "pct_of_postings": 1.2
+    },
+    {
+      "skill": "Go",
+      "postings_mentioning": 5,
+      "pct_of_postings": 1.2
+    },
+    {
+      "skill": "Flux",
       "postings_mentioning": 4,
       "pct_of_postings": 1.0
     },
     {
-      "skill": "Ansible",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
-    },
-    {
-      "skill": "GitLab CI",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
-    },
-    {
-      "skill": "Prometheus",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
+      "skill": "Git",
+      "postings_mentioning": 4,
+      "pct_of_postings": 1.0
     },
     {
       "skill": "Grafana",
@@ -87,17 +77,22 @@
       "pct_of_postings": 0.7
     },
     {
-      "skill": "Go",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
-    },
-    {
-      "skill": "Jenkins",
+      "skill": "GitLab CI",
       "postings_mentioning": 2,
       "pct_of_postings": 0.5
     },
     {
-      "skill": "GitHub Actions",
+      "skill": "ELK Stack",
+      "postings_mentioning": 2,
+      "pct_of_postings": 0.5
+    },
+    {
+      "skill": "OpenTelemetry",
+      "postings_mentioning": 2,
+      "pct_of_postings": 0.5
+    },
+    {
+      "skill": "HashiCorp Vault",
       "postings_mentioning": 2,
       "pct_of_postings": 0.5
     },
@@ -107,12 +102,7 @@
       "pct_of_postings": 0.2
     },
     {
-      "skill": "CloudFormation",
-      "postings_mentioning": 1,
-      "pct_of_postings": 0.2
-    },
-    {
-      "skill": "Pulumi",
+      "skill": "Ansible",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
@@ -122,12 +112,12 @@
       "pct_of_postings": 0.2
     },
     {
-      "skill": "Datadog",
+      "skill": "Prometheus",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
     {
-      "skill": "Trivy",
+      "skill": "Bash",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     }
