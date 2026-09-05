@@ -1,29 +1,29 @@
 skill,postings_mentioning,pct_of_postings
-Python,48,11.5
-AWS,34,8.2
-CI/CD,27,6.5
-Azure,23,5.5
-Kubernetes,23,5.5
-Docker,21,5.0
-GCP,20,4.8
-Linux,17,4.1
-Terraform,13,3.1
-Git,9,2.2
-Grafana,8,1.9
-ELK Stack,6,1.4
-Go,6,1.4
-Ansible,5,1.2
-Prometheus,5,1.2
-Bash,4,1.0
-GitHub Actions,3,0.7
+Python,65,15.6
+AWS,45,10.8
+Kubernetes,36,8.6
+Azure,29,6.9
+GCP,28,6.7
+CI/CD,28,6.7
+Docker,22,5.3
+Terraform,21,5.0
+Linux,15,3.6
+Git,11,2.6
+Ansible,9,2.2
+Bash,9,2.2
+Go,7,1.7
+Grafana,6,1.4
+ELK Stack,5,1.2
+Prometheus,4,1.0
+Podman,3,0.7
+CloudFormation,3,0.7
 Datadog,3,0.7
-Splunk,3,0.7
-OpenTelemetry,3,0.7
+HashiCorp Vault,3,0.7
 Helm,2,0.5
-CloudFormation,2,0.5
+Pulumi,2,0.5
 Jenkins,2,0.5
-GitLab CI,2,0.5
-Argo CD,2,0.5
-Podman,1,0.2
-Flux,1,0.2
-Istio,1,0.2
+GitHub Actions,2,0.5
+OpenTelemetry,2,0.5
+Nginx,2,0.5
+GitLab CI,1,0.2
+Argo CD,1,0.2
