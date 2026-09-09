@@ -1,85 +1,75 @@
 {
-  "total_postings_analyzed": 417,
+  "total_postings_analyzed": 418,
   "skills": [
     {
       "skill": "Python",
-      "postings_mentioning": 61,
-      "pct_of_postings": 14.6
+      "postings_mentioning": 52,
+      "pct_of_postings": 12.4
     },
     {
       "skill": "AWS",
-      "postings_mentioning": 43,
-      "pct_of_postings": 10.3
-    },
-    {
-      "skill": "Kubernetes",
-      "postings_mentioning": 27,
-      "pct_of_postings": 6.5
-    },
-    {
-      "skill": "GCP",
-      "postings_mentioning": 23,
-      "pct_of_postings": 5.5
+      "postings_mentioning": 28,
+      "pct_of_postings": 6.7
     },
     {
       "skill": "CI/CD",
-      "postings_mentioning": 23,
-      "pct_of_postings": 5.5
+      "postings_mentioning": 28,
+      "pct_of_postings": 6.7
+    },
+    {
+      "skill": "Kubernetes",
+      "postings_mentioning": 26,
+      "pct_of_postings": 6.2
+    },
+    {
+      "skill": "GCP",
+      "postings_mentioning": 21,
+      "pct_of_postings": 5.0
     },
     {
       "skill": "Azure",
-      "postings_mentioning": 18,
-      "pct_of_postings": 4.3
+      "postings_mentioning": 20,
+      "pct_of_postings": 4.8
     },
     {
       "skill": "Docker",
-      "postings_mentioning": 17,
-      "pct_of_postings": 4.1
+      "postings_mentioning": 19,
+      "pct_of_postings": 4.5
     },
     {
       "skill": "Terraform",
-      "postings_mentioning": 11,
-      "pct_of_postings": 2.6
-    },
-    {
-      "skill": "Linux",
-      "postings_mentioning": 11,
-      "pct_of_postings": 2.6
+      "postings_mentioning": 15,
+      "pct_of_postings": 3.6
     },
     {
       "skill": "Git",
-      "postings_mentioning": 10,
-      "pct_of_postings": 2.4
+      "postings_mentioning": 14,
+      "pct_of_postings": 3.3
     },
     {
-      "skill": "Go",
+      "skill": "Linux",
       "postings_mentioning": 8,
       "pct_of_postings": 1.9
     },
     {
-      "skill": "Datadog",
-      "postings_mentioning": 7,
-      "pct_of_postings": 1.7
+      "skill": "ELK Stack",
+      "postings_mentioning": 6,
+      "pct_of_postings": 1.4
     },
     {
-      "skill": "Grafana",
+      "skill": "Bash",
       "postings_mentioning": 5,
       "pct_of_postings": 1.2
     },
     {
-      "skill": "Pulumi",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
+      "skill": "Go",
+      "postings_mentioning": 5,
+      "pct_of_postings": 1.2
     },
     {
-      "skill": "GitHub Actions",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
-    },
-    {
-      "skill": "GitLab CI",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
+      "skill": "Datadog",
+      "postings_mentioning": 4,
+      "pct_of_postings": 1.0
     },
     {
       "skill": "Flux",
@@ -87,22 +77,37 @@
       "pct_of_postings": 0.7
     },
     {
-      "skill": "ELK Stack",
+      "skill": "Prometheus",
       "postings_mentioning": 3,
       "pct_of_postings": 0.7
     },
     {
-      "skill": "Splunk",
+      "skill": "Grafana",
       "postings_mentioning": 3,
       "pct_of_postings": 0.7
     },
     {
       "skill": "Ansible",
+      "postings_mentioning": 2,
+      "pct_of_postings": 0.5
+    },
+    {
+      "skill": "GitHub Actions",
+      "postings_mentioning": 2,
+      "pct_of_postings": 0.5
+    },
+    {
+      "skill": "OpenTelemetry",
+      "postings_mentioning": 2,
+      "pct_of_postings": 0.5
+    },
+    {
+      "skill": "Pulumi",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
     {
-      "skill": "Jenkins",
+      "skill": "GitLab CI",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
@@ -112,17 +117,7 @@
       "pct_of_postings": 0.2
     },
     {
-      "skill": "Prometheus",
-      "postings_mentioning": 1,
-      "pct_of_postings": 0.2
-    },
-    {
-      "skill": "OpenTelemetry",
-      "postings_mentioning": 1,
-      "pct_of_postings": 0.2
-    },
-    {
-      "skill": "Bash",
+      "skill": "Splunk",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     }
