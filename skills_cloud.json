@@ -1,78 +1,78 @@
 {
-  "total_postings_analyzed": 414,
+  "total_postings_analyzed": 415,
   "skills": [
     {
       "skill": "Python",
-      "postings_mentioning": 69,
-      "pct_of_postings": 16.7
+      "postings_mentioning": 34,
+      "pct_of_postings": 8.2
     },
     {
       "skill": "AWS",
-      "postings_mentioning": 38,
-      "pct_of_postings": 9.2
-    },
-    {
-      "skill": "GCP",
-      "postings_mentioning": 29,
-      "pct_of_postings": 7.0
-    },
-    {
-      "skill": "CI/CD",
-      "postings_mentioning": 29,
-      "pct_of_postings": 7.0
-    },
-    {
-      "skill": "Azure",
-      "postings_mentioning": 28,
-      "pct_of_postings": 6.8
+      "postings_mentioning": 22,
+      "pct_of_postings": 5.3
     },
     {
       "skill": "Kubernetes",
-      "postings_mentioning": 28,
-      "pct_of_postings": 6.8
+      "postings_mentioning": 22,
+      "pct_of_postings": 5.3
+    },
+    {
+      "skill": "Azure",
+      "postings_mentioning": 21,
+      "pct_of_postings": 5.1
+    },
+    {
+      "skill": "GCP",
+      "postings_mentioning": 18,
+      "pct_of_postings": 4.3
+    },
+    {
+      "skill": "CI/CD",
+      "postings_mentioning": 17,
+      "pct_of_postings": 4.1
     },
     {
       "skill": "Docker",
-      "postings_mentioning": 27,
-      "pct_of_postings": 6.5
+      "postings_mentioning": 13,
+      "pct_of_postings": 3.1
     },
     {
-      "skill": "Terraform",
-      "postings_mentioning": 19,
-      "pct_of_postings": 4.6
-    },
-    {
-      "skill": "Git",
-      "postings_mentioning": 11,
-      "pct_of_postings": 2.7
-    },
-    {
-      "skill": "Linux",
+      "skill": "Go",
       "postings_mentioning": 10,
       "pct_of_postings": 2.4
     },
     {
-      "skill": "Go",
+      "skill": "Terraform",
       "postings_mentioning": 8,
       "pct_of_postings": 1.9
     },
     {
-      "skill": "ELK Stack",
+      "skill": "Flux",
+      "postings_mentioning": 5,
+      "pct_of_postings": 1.2
+    },
+    {
+      "skill": "Git",
+      "postings_mentioning": 5,
+      "pct_of_postings": 1.2
+    },
+    {
+      "skill": "GitHub Actions",
       "postings_mentioning": 4,
       "pct_of_postings": 1.0
     },
     {
-      "skill": "Flux",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
-    },
-    {
-      "skill": "Prometheus",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
-    },
-    {
       "skill": "Grafana",
+      "postings_mentioning": 4,
+      "pct_of_postings": 1.0
+    },
+    {
+      "skill": "Datadog",
+      "postings_mentioning": 3,
+      "pct_of_postings": 0.7
+    },
+    {
+      "skill": "Linux",
       "postings_mentioning": 3,
       "pct_of_postings": 0.7
     },
@@ -82,22 +82,17 @@
       "pct_of_postings": 0.5
     },
     {
-      "skill": "Ansible",
+      "skill": "Pulumi",
       "postings_mentioning": 2,
       "pct_of_postings": 0.5
     },
     {
-      "skill": "Jenkins",
+      "skill": "ELK Stack",
       "postings_mentioning": 2,
       "pct_of_postings": 0.5
     },
     {
-      "skill": "Argo CD",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
-    },
-    {
-      "skill": "Datadog",
+      "skill": "OpenTelemetry",
       "postings_mentioning": 2,
       "pct_of_postings": 0.5
     },
@@ -107,12 +102,7 @@
       "pct_of_postings": 0.5
     },
     {
-      "skill": "HashiCorp Vault",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
-    },
-    {
-      "skill": "Podman",
+      "skill": "Ansible",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
@@ -122,22 +112,22 @@
       "pct_of_postings": 0.2
     },
     {
-      "skill": "Pulumi",
+      "skill": "Jenkins",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
     {
-      "skill": "GitHub Actions",
+      "skill": "Argo CD",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
     {
-      "skill": "GitLab CI",
+      "skill": "Splunk",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
     {
-      "skill": "OpenTelemetry",
+      "skill": "HashiCorp Vault",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     }
