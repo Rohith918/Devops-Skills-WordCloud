@@ -1,10 +1,10 @@
 {
-  "total_postings_analyzed": 415,
+  "total_postings_analyzed": 416,
   "skills": [
     {
       "skill": "Python",
-      "postings_mentioning": 34,
-      "pct_of_postings": 8.2
+      "postings_mentioning": 41,
+      "pct_of_postings": 9.9
     },
     {
       "skill": "AWS",
@@ -13,28 +13,38 @@
     },
     {
       "skill": "Kubernetes",
-      "postings_mentioning": 22,
-      "pct_of_postings": 5.3
-    },
-    {
-      "skill": "Azure",
       "postings_mentioning": 21,
-      "pct_of_postings": 5.1
+      "pct_of_postings": 5.0
     },
     {
-      "skill": "GCP",
+      "skill": "CI/CD",
       "postings_mentioning": 18,
       "pct_of_postings": 4.3
     },
     {
-      "skill": "CI/CD",
-      "postings_mentioning": 17,
-      "pct_of_postings": 4.1
+      "skill": "GCP",
+      "postings_mentioning": 14,
+      "pct_of_postings": 3.4
+    },
+    {
+      "skill": "Azure",
+      "postings_mentioning": 13,
+      "pct_of_postings": 3.1
+    },
+    {
+      "skill": "Terraform",
+      "postings_mentioning": 11,
+      "pct_of_postings": 2.6
+    },
+    {
+      "skill": "Linux",
+      "postings_mentioning": 11,
+      "pct_of_postings": 2.6
     },
     {
       "skill": "Docker",
-      "postings_mentioning": 13,
-      "pct_of_postings": 3.1
+      "postings_mentioning": 10,
+      "pct_of_postings": 2.4
     },
     {
       "skill": "Go",
@@ -42,9 +52,24 @@
       "pct_of_postings": 2.4
     },
     {
-      "skill": "Terraform",
-      "postings_mentioning": 8,
-      "pct_of_postings": 1.9
+      "skill": "Grafana",
+      "postings_mentioning": 9,
+      "pct_of_postings": 2.2
+    },
+    {
+      "skill": "Prometheus",
+      "postings_mentioning": 7,
+      "pct_of_postings": 1.7
+    },
+    {
+      "skill": "Git",
+      "postings_mentioning": 6,
+      "pct_of_postings": 1.4
+    },
+    {
+      "skill": "Ansible",
+      "postings_mentioning": 5,
+      "pct_of_postings": 1.2
     },
     {
       "skill": "Flux",
@@ -52,34 +77,24 @@
       "pct_of_postings": 1.2
     },
     {
-      "skill": "Git",
-      "postings_mentioning": 5,
-      "pct_of_postings": 1.2
-    },
-    {
-      "skill": "GitHub Actions",
+      "skill": "Argo CD",
       "postings_mentioning": 4,
       "pct_of_postings": 1.0
     },
     {
-      "skill": "Grafana",
+      "skill": "Bash",
       "postings_mentioning": 4,
       "pct_of_postings": 1.0
-    },
-    {
-      "skill": "Datadog",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
-    },
-    {
-      "skill": "Linux",
-      "postings_mentioning": 3,
-      "pct_of_postings": 0.7
     },
     {
       "skill": "Helm",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
+      "postings_mentioning": 3,
+      "pct_of_postings": 0.7
+    },
+    {
+      "skill": "GitHub Actions",
+      "postings_mentioning": 3,
+      "pct_of_postings": 0.7
     },
     {
       "skill": "Pulumi",
@@ -87,24 +102,19 @@
       "pct_of_postings": 0.5
     },
     {
+      "skill": "GitLab CI",
+      "postings_mentioning": 2,
+      "pct_of_postings": 0.5
+    },
+    {
+      "skill": "Datadog",
+      "postings_mentioning": 2,
+      "pct_of_postings": 0.5
+    },
+    {
       "skill": "ELK Stack",
       "postings_mentioning": 2,
       "pct_of_postings": 0.5
-    },
-    {
-      "skill": "OpenTelemetry",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
-    },
-    {
-      "skill": "Bash",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
-    },
-    {
-      "skill": "Ansible",
-      "postings_mentioning": 1,
-      "pct_of_postings": 0.2
     },
     {
       "skill": "CloudFormation",
@@ -117,17 +127,17 @@
       "pct_of_postings": 0.2
     },
     {
-      "skill": "Argo CD",
-      "postings_mentioning": 1,
-      "pct_of_postings": 0.2
-    },
-    {
-      "skill": "Splunk",
+      "skill": "OpenTelemetry",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
     {
       "skill": "HashiCorp Vault",
+      "postings_mentioning": 1,
+      "pct_of_postings": 0.2
+    },
+    {
+      "skill": "Istio",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     }
