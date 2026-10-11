@@ -1,63 +1,73 @@
 {
-  "total_postings_analyzed": 416,
+  "total_postings_analyzed": 417,
   "skills": [
     {
       "skill": "Python",
-      "postings_mentioning": 48,
-      "pct_of_postings": 11.5
+      "postings_mentioning": 77,
+      "pct_of_postings": 18.5
     },
     {
       "skill": "AWS",
-      "postings_mentioning": 25,
-      "pct_of_postings": 6.0
-    },
-    {
-      "skill": "Azure",
-      "postings_mentioning": 19,
-      "pct_of_postings": 4.6
+      "postings_mentioning": 33,
+      "pct_of_postings": 7.9
     },
     {
       "skill": "Kubernetes",
-      "postings_mentioning": 19,
-      "pct_of_postings": 4.6
+      "postings_mentioning": 28,
+      "pct_of_postings": 6.7
     },
     {
       "skill": "CI/CD",
+      "postings_mentioning": 26,
+      "pct_of_postings": 6.2
+    },
+    {
+      "skill": "Azure",
+      "postings_mentioning": 20,
+      "pct_of_postings": 4.8
+    },
+    {
+      "skill": "GCP",
       "postings_mentioning": 19,
       "pct_of_postings": 4.6
     },
     {
-      "skill": "GCP",
-      "postings_mentioning": 15,
-      "pct_of_postings": 3.6
-    },
-    {
       "skill": "Docker",
-      "postings_mentioning": 12,
-      "pct_of_postings": 2.9
-    },
-    {
-      "skill": "Terraform",
-      "postings_mentioning": 10,
-      "pct_of_postings": 2.4
+      "postings_mentioning": 18,
+      "pct_of_postings": 4.3
     },
     {
       "skill": "Git",
-      "postings_mentioning": 10,
-      "pct_of_postings": 2.4
+      "postings_mentioning": 16,
+      "pct_of_postings": 3.8
+    },
+    {
+      "skill": "Terraform",
+      "postings_mentioning": 14,
+      "pct_of_postings": 3.4
+    },
+    {
+      "skill": "Linux",
+      "postings_mentioning": 11,
+      "pct_of_postings": 2.6
     },
     {
       "skill": "Go",
-      "postings_mentioning": 9,
-      "pct_of_postings": 2.2
+      "postings_mentioning": 11,
+      "pct_of_postings": 2.6
     },
     {
-      "skill": "Flux",
+      "skill": "Bash",
       "postings_mentioning": 5,
       "pct_of_postings": 1.2
     },
     {
-      "skill": "Linux",
+      "skill": "HashiCorp Vault",
+      "postings_mentioning": 5,
+      "pct_of_postings": 1.2
+    },
+    {
+      "skill": "Flux",
       "postings_mentioning": 4,
       "pct_of_postings": 1.0
     },
@@ -67,17 +77,17 @@
       "pct_of_postings": 0.7
     },
     {
-      "skill": "Ansible",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
-    },
-    {
-      "skill": "GitLab CI",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
-    },
-    {
       "skill": "Grafana",
+      "postings_mentioning": 3,
+      "pct_of_postings": 0.7
+    },
+    {
+      "skill": "Helm",
+      "postings_mentioning": 2,
+      "pct_of_postings": 0.5
+    },
+    {
+      "skill": "Argo CD",
       "postings_mentioning": 2,
       "pct_of_postings": 0.5
     },
@@ -87,17 +97,7 @@
       "pct_of_postings": 0.5
     },
     {
-      "skill": "Splunk",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
-    },
-    {
-      "skill": "HashiCorp Vault",
-      "postings_mentioning": 2,
-      "pct_of_postings": 0.5
-    },
-    {
-      "skill": "Helm",
+      "skill": "Ansible",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
@@ -112,7 +112,7 @@
       "pct_of_postings": 0.2
     },
     {
-      "skill": "Argo CD",
+      "skill": "GitLab CI",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     },
@@ -127,7 +127,17 @@
       "pct_of_postings": 0.2
     },
     {
+      "skill": "Splunk",
+      "postings_mentioning": 1,
+      "pct_of_postings": 0.2
+    },
+    {
       "skill": "OpenTelemetry",
+      "postings_mentioning": 1,
+      "pct_of_postings": 0.2
+    },
+    {
+      "skill": "Trivy",
       "postings_mentioning": 1,
       "pct_of_postings": 0.2
     }
